@@ -1,5 +1,11 @@
 # tec-robot-tetrahedron
+
 Self-learning Robotic System Development
+
+
+![image](https://github.com/SteveJustin1963/tec-robot-tetrahedron/assets/58069246/9ee50d71-01a8-4294-aaec-957ccb9f61b9)
+
+
 
 ## a group of simple mobile robots joined together
 
@@ -43,4 +49,9 @@ a simple pseudocode that represents a simple algorithm that emulates the learnin
 
 This pseudocode is a simplified representation and does not include specific details of the learning algorithms or the exact coordination strategies used in the research described in the original text. It serves as a high-level overview of the process and concepts involved in the system's learning and optimization.
 
+## adapt code-1 to a humanoid robot made of tetrahedrons 
 
+`code-2`
+
+
+This modified pseudocode uses tetrahedral units as the building blocks for the humanoid robot and adapts the learning, coordination, and friction-handling processes accordingly. Please note that the specific mechanics of how tetrahedral units move and interact may require further development and consideration in a real-world implementation.
