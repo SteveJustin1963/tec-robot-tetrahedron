@@ -53,5 +53,7 @@ This pseudocode is a simplified representation and does not include specific det
 
 `code-2`
 
+This modified pseudocode uses tetrahedral units as the building blocks for the humanoid robot and adapts the learning, coordination, and friction-handling processes accordingly. 
+Please note that the specific mechanics of how tetrahedral units move and interact need further development and consideration in a real-world implementation.
 
-This modified pseudocode uses tetrahedral units as the building blocks for the humanoid robot and adapts the learning, coordination, and friction-handling processes accordingly. Please note that the specific mechanics of how tetrahedral units move and interact may require further development and consideration in a real-world implementation.
+
