@@ -56,4 +56,10 @@ This pseudocode is a simplified representation and does not include specific det
 This modified pseudocode uses tetrahedral units as the building blocks for the humanoid robot and adapts the learning, coordination, and friction-handling processes accordingly. 
 Please note that the specific mechanics of how tetrahedral units move and interact need further development and consideration in a real-world implementation.
 
+## forth code 
+`forth-1`
+
+This Forth code attempts to mirror the structure and functionality of the pseudocode code-2, but specific implementations (like initializing the tetrahedral chain, measuring distance moved, handling friction, and others) still need to be filled in based on the specific hardware and capabilities of your robot. Forth's syntax and programming paradigms differ significantly from more common procedural languages, so this code is structured to align with Forth's stack-based operation.
+
+
 
